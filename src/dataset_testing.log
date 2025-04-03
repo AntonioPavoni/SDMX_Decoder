@@ -1,0 +1,110 @@
+2025-02-24 19:24:16,297 - INFO - Using data directory: C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data
+2025-02-24 19:24:16,315 - INFO - Starting dataset tests
+2025-02-24 19:24:16,316 - INFO - 
+==================================================
+2025-02-24 19:24:16,316 - INFO - Testing dataset: AACT_EAA01
+2025-02-24 19:24:16,316 - INFO - ==================================================
+2025-02-24 19:24:16,318 - INFO - Basic extraction test for AACT_EAA01 (no filters):
+2025-02-24 19:24:16,318 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset AACT_EAA01 --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,402 - INFO - Command completed in 0.08 seconds
+2025-02-24 19:24:16,402 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,402 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,403 - ERROR - Basic extraction failed for AACT_EAA01
+2025-02-24 19:24:16,403 - INFO - 
+==================================================
+2025-02-24 19:24:16,403 - INFO - Testing dataset: ACF_P_FI
+2025-02-24 19:24:16,403 - INFO - ==================================================
+2025-02-24 19:24:16,404 - INFO - Basic extraction test for ACF_P_FI (no filters):
+2025-02-24 19:24:16,405 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset ACF_P_FI --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,471 - INFO - Command completed in 0.07 seconds
+2025-02-24 19:24:16,471 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,471 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,471 - ERROR - Basic extraction failed for ACF_P_FI
+2025-02-24 19:24:16,472 - INFO - 
+==================================================
+2025-02-24 19:24:16,472 - INFO - Testing dataset: AEI_FM_USEFERT
+2025-02-24 19:24:16,472 - INFO - ==================================================
+2025-02-24 19:24:16,473 - INFO - Basic extraction test for AEI_FM_USEFERT (no filters):
+2025-02-24 19:24:16,473 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset AEI_FM_USEFERT --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,540 - INFO - Command completed in 0.07 seconds
+2025-02-24 19:24:16,540 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,541 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,541 - ERROR - Basic extraction failed for AEI_FM_USEFERT
+2025-02-24 19:24:16,541 - INFO - 
+==================================================
+2025-02-24 19:24:16,541 - INFO - Testing dataset: APRI_LPRC
+2025-02-24 19:24:16,541 - INFO - ==================================================
+2025-02-24 19:24:16,543 - INFO - Basic extraction test for APRI_LPRC (no filters):
+2025-02-24 19:24:16,544 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset APRI_LPRC --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,608 - INFO - Command completed in 0.06 seconds
+2025-02-24 19:24:16,609 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,609 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,609 - ERROR - Basic extraction failed for APRI_LPRC
+2025-02-24 19:24:16,609 - INFO - 
+==================================================
+2025-02-24 19:24:16,609 - INFO - Testing dataset: AVIA_GOR_DE
+2025-02-24 19:24:16,609 - INFO - ==================================================
+2025-02-24 19:24:16,612 - INFO - Basic extraction test for AVIA_GOR_DE (no filters):
+2025-02-24 19:24:16,612 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset AVIA_GOR_DE --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,675 - INFO - Command completed in 0.06 seconds
+2025-02-24 19:24:16,675 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,675 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,675 - ERROR - Basic extraction failed for AVIA_GOR_DE
+2025-02-24 19:24:16,675 - INFO - 
+==================================================
+2025-02-24 19:24:16,676 - INFO - Testing dataset: AVIA_GOR_IS
+2025-02-24 19:24:16,676 - INFO - ==================================================
+2025-02-24 19:24:16,677 - INFO - Basic extraction test for AVIA_GOR_IS (no filters):
+2025-02-24 19:24:16,677 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset AVIA_GOR_IS --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,743 - INFO - Command completed in 0.07 seconds
+2025-02-24 19:24:16,744 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,744 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,744 - ERROR - Basic extraction failed for AVIA_GOR_IS
+2025-02-24 19:24:16,744 - INFO - 
+==================================================
+2025-02-24 19:24:16,744 - INFO - Testing dataset: AVIA_GOR_UK
+2025-02-24 19:24:16,745 - INFO - ==================================================
+2025-02-24 19:24:16,747 - INFO - Basic extraction test for AVIA_GOR_UK (no filters):
+2025-02-24 19:24:16,747 - INFO - Running command: C:\Python39\python.exe C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py --dataset AVIA_GOR_UK --data-dir C:\Users\Antonio\sdmx\eurostat_sdmx\scripts\data --export csv
+2025-02-24 19:24:16,813 - INFO - Command completed in 0.07 seconds
+2025-02-24 19:24:16,813 - ERROR - Command failed with return code 1
+2025-02-24 19:24:16,813 - ERROR - Error Output:
+  File "C:\Users\Antonio\sdmx\eurostat_sdmx\src\DataSeriesExtraction.py", line 251
+    if len(pos_parts) != len(dimension_order):
+                                             ^
+SyntaxError: invalid syntax
+
+2025-02-24 19:24:16,814 - ERROR - Basic extraction failed for AVIA_GOR_UK
+2025-02-24 19:24:16,814 - INFO - 
+==================================================
+2025-02-24 19:24:16,814 - INFO - Testing complete! Success: 0, Failed: 7
